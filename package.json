@@ -1,0 +1,14 @@
+{
+  "name": "covid19-graphql-api",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "scripts": {
+    "start": "node ./src/index.js"
+  },
+  "dependencies": {
+    "apollo-datasource-rest": "^0.8.0",
+    "apollo-server": "^2.11.0",
+    "graphql": "^14.6.0"
+  }
+}
